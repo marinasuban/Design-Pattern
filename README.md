@@ -3,6 +3,7 @@ Exploring design patterns concept (Creational, Structural, Behavioural)
 
 Creational:
 
+
 Factory Method (Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of object that will be created.
 
 Abstract Factory Method (Lets you produce families of related objects withot specifying their concrete classes)
@@ -16,6 +17,8 @@ Singleton (Lets you ensure that a class has only one instance, while providing a
 
 
 Structural:
+
+
 Adapter (Allows objects with incompatible interfaces to collaborate)
 
 Bridge (Lets you split a large class or a set of closely related classes into seperate hierarchies - abstraction and implementation - which can be developed independently of each other)
